@@ -18,7 +18,7 @@ VALUES
   ('Engineer', 110000, 6),
   ('Recruiter ', 45000, 1),
   ('Accountant', 125000, 7),
-  ('CTO', 200000, 4)
+  ('CTO', 200000, 4),
   ('CEO', 400000, 5);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
@@ -28,6 +28,6 @@ VALUES
   ('Ryan', 'Potter', 3, 1),
   ('Thomas', 'Hatt', 4, 3),
   ('John', 'Doe', 5, 1),
-  ('Steve', 'Allen', 6, 3);
-  ('Richard', 'Smith', 6, 3);
+  ('Steve', 'Allen', 6, 3),
+  ('Richard', 'Smith', 5, 3),
   ('Jane', 'Doe', 6, 3);
