@@ -32,4 +32,4 @@
   ![YouTube](https://www.youtube.com/watch?v=mF6L0_NkROg)
 
   ## ScreenShot
-  ![screenshot](https://github.com/dmoloney5/RUT-WEEK10-Teams-Info/blob/main/image/My%20Team1.jpg)
+  ![screenshot](https://github.com/dmoloney5/rut-week12-employeesTracker/blob/main/asset/images/employee-tracker.jpg)
