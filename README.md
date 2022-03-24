@@ -29,7 +29,7 @@
   Nodejs, Express, MySQL and Inquirer
   
   ## Video
-  ![YouTube](https://www.youtube.com/watch?v=mF6L0_NkROg)
+  ![YouTube](https://youtu.be/mF6L0_NkROg)
 
   ## ScreenShot
   ![screenshot](https://github.com/dmoloney5/rut-week12-employeesTracker/blob/main/asset/images/employee-tracker.jpg)
